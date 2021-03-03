@@ -1,0 +1,23 @@
+{
+  "name": "smtp-email-server",
+  "version": "1.0.0",
+  "description": "A simple smtp built with express,node and gmail",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niiwade/Simple-Stmp.git"
+  },
+  "keywords": [
+    "simple",
+    "smtp"
+  ],
+  "author": "niiwade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niiwade/Simple-Stmp/issues"
+  },
+  "homepage": "https://github.com/niiwade/Simple-Stmp#readme"
+}
